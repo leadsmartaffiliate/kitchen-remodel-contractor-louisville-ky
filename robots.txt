@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kitchen-remodel-contractor-louisville-ky.netlify.app/sitemap.xml
